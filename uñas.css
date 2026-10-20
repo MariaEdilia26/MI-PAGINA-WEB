@@ -1,0 +1,44 @@
+Body{
+	background: #fff0f5;
+	font-family: Arial;
+	color: #8B174D;
+}
+.foto-creadora {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    display: block;
+    margin: 15px auto;
+}
+.contenedor{
+	padding: 20px;
+}
+.cabecera{
+	background: #8D6E63;
+	color: #C8E6C9;
+	text-align: center;
+	font-size: 30PX;
+	padding: 10PX;
+}
+h1, h2 {
+    text-align: center;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.menu_centro {
+    width: 33.33%;
+    text-align: center;
+    vertical-align: top;
+    padding: 15px;
+}
+
+.menu_centro img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+ 
